@@ -10,7 +10,6 @@
 int main()
 {
 	printf("this file is test again");
-	printf("hehe");
 	return 0;
 
 }

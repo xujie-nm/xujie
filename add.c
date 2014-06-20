@@ -9,6 +9,6 @@
 
 int main()
 {
-	printf("add a  file");
+	printf("add files");
 	return 0;
 }

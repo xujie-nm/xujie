@@ -10,6 +10,5 @@
 int main()
 {
 	printf("\nhello world\n");
-	printf("test successed");
 	return 0;
 }
